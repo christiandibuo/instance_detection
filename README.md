@@ -13,4 +13,4 @@ Single and multiple instance detection in noisy images of products on shelves.
 
 ## Authors
 
-[Christian Di Buò]([https://github.com/christiandibuo]) $\cdot$ [Simone Reale]([https://github.com/SimReale])
+[Christian Di Buò](https://github.com/christiandibuo) $\cdot$ [Simone Reale](https://github.com/SimReale)
